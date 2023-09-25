@@ -246,6 +246,7 @@ footer a {
     section{
         margin-bottom: 2em;
        display: inline-block;
+       vertical-align: middle;
     }
     section h2{
         margin: 0;
@@ -258,7 +259,7 @@ footer a {
 }
 .div{
     display: inline-block;
-    width: 374px;;
+    width: 374px;
 }
 }
 
